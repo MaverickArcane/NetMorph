@@ -15,6 +15,7 @@ iproute2
 # Usage
 
 chmod +x Dodger.sh
+
 ./Dodger.sh {interface}
 
 Example:
