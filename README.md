@@ -18,4 +18,6 @@ chmod +x Dodger.sh
 ./Dodger.sh {interface}
 ```
 Example:
+```
 ./Dodger.sh wlan0
+```
