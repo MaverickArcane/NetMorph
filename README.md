@@ -13,7 +13,7 @@ iproute2
 
 # Usage
 ```
-chmod +x Dodger.sh
+chmod +x netmorph.sh
 ./netmorph.sh {interface}
 ```
 Example:
