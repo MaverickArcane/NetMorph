@@ -1,6 +1,6 @@
-# Dodger-min
+# netmorph
 
-Dodger is designed to quickly dodge basic MAC and hostname filtering without needing to take time to reset network configuration on your linux based computer and is written in bash.
+netmorph is designed to quickly dodge basic MAC and hostname filtering without needing to take time to reset network configuration on your linux based computer and is written in bash.
 
 # Dependencies
 
