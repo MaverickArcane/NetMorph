@@ -14,9 +14,9 @@ iproute2
 # Usage
 ```
 chmod +x Dodger.sh
-./Dodger.sh {interface}
+./netmorph.sh {interface}
 ```
 Example:
 ```
-./Dodger.sh wlan0
+./netmorph.sh wlan0
 ```
