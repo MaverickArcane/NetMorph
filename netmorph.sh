@@ -1,7 +1,7 @@
 #!/usr/bin/sudo /bin/bash
 
 if [ -z $1 ]; then
-    echo "Usage: ./Dodger.sh {interface}"
+    echo "Usage: ./netmorph.sh {interface}"
     exit 1
 fi
 
